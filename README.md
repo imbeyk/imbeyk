@@ -6,6 +6,8 @@ I'm currently pursuing my Bachelor's degree in Computer Engineering, passionate 
 My core skills include **HTML**, **CSS**, and **JavaScript**, alongside solid experience with **Git** and **GitHub** for version control and collaboration.
 
 ---
+![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![Developer Vibes](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
 
 ## 🚀 Skills & Expertise
 
