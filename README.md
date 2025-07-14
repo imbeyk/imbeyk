@@ -9,7 +9,6 @@ My core skills include **HTML**, **CSS**, and **JavaScript**, alongside solid ex
  ![Coding Bunny](https://media.tenor.com/images/247997176848495651/tenor.gif)
 
 
-## 🚀 Skills & Expertise
 
 ## 🚀 Skills
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
