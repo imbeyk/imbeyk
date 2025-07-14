@@ -6,16 +6,17 @@ I'm currently pursuing my Bachelor's degree in Computer Engineering, passionate 
 My core skills include **HTML**, **CSS**, and **JavaScript**, alongside solid experience with **Git** and **GitHub** for version control and collaboration.
 
 ---
-![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-![Developer Vibes](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
+
+![Coding Bunny](https://media.tenor.com/images/2e1c4b2f5e8c8f1db5c7170ee7c07fef/tenor.gif)
 
 ## 🚀 Skills & Expertise
 
-- **HTML5** — Semantic, accessible, and SEO-friendly markup  
-- **CSS3** — Responsive layouts, Flexbox, Grid, and animations  
-- **JavaScript (ES6+)** — DOM manipulation, event handling, modern syntax  
-- **Git & GitHub** — Version control, branching, pull requests  
-- **Terminal** — Command line basics and workflow optimization
+## 🚀 Skills
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Emmet](https://img.shields.io/badge/Emmet-1F425F?style=for-the-badge&logo=emmet&logoColor=white)
+
 
 ---
 
