@@ -6,6 +6,7 @@ I'm currently pursuing my Bachelor's degree in Computer Engineering, passionate 
 My core skills include **HTML**, **CSS**, and **JavaScript**, alongside solid experience with **Git** and **GitHub** for version control and collaboration.
 
 ---
+ ![Coding Bunny](https://media.tenor.com/images/247997176848495651/tenor.gif)
 
 
 ## 🚀 Skills & Expertise
@@ -36,8 +37,6 @@ My core skills include **HTML**, **CSS**, and **JavaScript**, alongside solid ex
 - Start contributing to open-source projects  
 - Share knowledge via blogging or tutorials  
 
-
-![Coding Bunny](https://media.tenor.com/images/2e1c4b2f5e8c8f1db5c7170ee7c07fef/tenor.gif)
 
 ---
 
