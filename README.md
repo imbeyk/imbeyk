@@ -6,6 +6,9 @@ I am currently pursuing a Bachelor's degree in Computer Science, with a strong i
 My core skills include **HTML**, **CSS**, and **JavaScript**, along with solid experience in **Git** and **GitHub** for version control and collaborative development.
 
 ---
+```
+**I enjoy learning in any field and building things.**
+```
 
 
 
