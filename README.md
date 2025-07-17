@@ -7,9 +7,6 @@ My core skills include **HTML**, **CSS**, and **JavaScript**, alongside solid ex
 
 ---
 
-## 📌 Fun Coding Mood
-
-![Typing Fast Bunny](https://tenor.com/view/typing-fast-bunny-computer-nerd-gif-247997176848495651/tenor.gif)
 
 
 ## 🚀 Skills
