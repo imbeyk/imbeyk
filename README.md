@@ -51,10 +51,14 @@ My core skills include **HTML**, **CSS**, and **JavaScript**, along with solid e
 
 ---
 
-## 🎨 Hobbies & Interests
-
-My hobbies include **reading**, **sports**,**science**, **art**,**Learning and building**,**entertainment**, and **nature**.
-
+## 🌟 Interests & Hobbies
+- 📚 Reading  
+- 🎾 Sports  
+- 🔬 Science  
+- 🎨 Art  
+- 🛠️ Learning Skills and Building  
+- 🎬 Entertainment  
+- 🌿 Nature  
 
 
 ---
