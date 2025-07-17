@@ -6,8 +6,8 @@ I'm currently pursuing my Bachelor's degree in Computer Engineering, passionate 
 My core skills include **HTML**, **CSS**, and **JavaScript**, alongside solid experience with **Git** and **GitHub** for version control and collaboration.
 
 ---
- ![Coding Bunny](https://media.tenor.com/images/247997176848495651/tenor.gif)
 
+![Typing Fast Bunny](https://tenor.com/view/typing-fast-bunny-computer-nerd-gif-247997176848495651/tenor.gif)
 
 
 ## 🚀 Skills
