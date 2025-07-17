@@ -1,9 +1,9 @@
 # Hi there 👋, I'm Mahdieh Beyk
 
-### 🎓 Computer Engineering Student | Aspiring Frontend Developer
+🎓 **Computer Science Student** | **Aspiring Frontend Developer**
 
-I'm currently pursuing my Bachelor's degree in Computer Engineering, passionate about crafting clean, responsive, and user-friendly websites.  
-My core skills include **HTML**, **CSS**, and **JavaScript**, alongside solid experience with **Git** and **GitHub** for version control and collaboration.
+I am currently pursuing a Bachelor's degree in Computer Science, with a strong interest in frontend development. I am passionate about creating clean, responsive, and user-friendly websites.  
+My core skills include **HTML**, **CSS**, and **JavaScript**, along with solid experience in **Git** and **GitHub** for version control and collaborative development.
 
 ---
 
