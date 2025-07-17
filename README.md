@@ -47,7 +47,9 @@ My core skills include **HTML**, **CSS**, and **JavaScript**, along with solid e
 - Begin working with React.js  
 - Build and deploy a personal portfolio website  
 - Start contributing to open-source projects  
-- Share knowledge via blogging or tutorials  
+- Share knowledge via blogging or tutorials
+ - Learn backend development  
+- Learn Python programming  
 
 ---
 
