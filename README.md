@@ -7,8 +7,9 @@ My core skills include **HTML**, **CSS**, and **JavaScript**, along with solid e
 
 ---
 ```
-**I enjoy learning in any field and building things.**
+✨I enjoy learning in any field and building things.
 ```
+
 
 
 
@@ -47,6 +48,13 @@ My core skills include **HTML**, **CSS**, and **JavaScript**, along with solid e
 - Build and deploy a personal portfolio website  
 - Start contributing to open-source projects  
 - Share knowledge via blogging or tutorials  
+
+---
+
+## 🎨 Hobbies & Interests
+
+My hobbies include **reading**, **sports**,**science**, **art**,**Learning and building**,**entertainment**, and **nature**.
+
 
 
 ---
