@@ -25,6 +25,8 @@ My core skills include **HTML**, **CSS**, and **JavaScript**, along with solid e
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Flexbox](https://img.shields.io/badge/Flexbox-FF8800?style=for-the-badge&logo=css3&logoColor=white)
 ![CSS Grid](https://img.shields.io/badge/CSS%20Grid-00B8A9?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
 
 
 
